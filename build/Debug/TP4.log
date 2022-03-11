@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  raytracer.cpp
+C:\Users\Marie-Anne\source\repos\IFT3355_TP4_A2021\image.hpp(72,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TP4.vcxproj -> C:\Users\Marie-Anne\source\repos\IFT3355_TP4_A2021\TP4.exe
