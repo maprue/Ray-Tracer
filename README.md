@@ -2,10 +2,10 @@
 Travail pratique complété dans le cadre du cours d'infographie.
 
 Ce travail:
-* Tests d'intersection, plane, sphere, mesh (triangle)
-* Illumintion locale
-* Ombrage
-* Réflexion miroir
+* Implémete les tests d'intersection pour un plane, une sphere et les meshs (triangles).
+* Implémente le calcul de l'illumintion locale.
+* Implémente le calcul des rayons d'ombre.
+* Implémente les rayons de réflexion réflexion.
 
 ## Images générées
 ![basic_output.bmp](scenes/basic_output.bmp)
