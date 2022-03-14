@@ -8,22 +8,22 @@ Ce travail:
 * Implémente les rayons de réflexion miroir.
 
 ## Images générées
-![basic_output.bmp](scenes/basic_output.bmp)
+![basic](scenes/basic_output.bmp)
 :--:
 *Scène Finale*
 
-![triangle_output.bmp](scenes/triangle_output.bmp)
+![triangle](scenes/triangle_output.bmp)
 :--:
 *Triangle*
 
-![cube_output.bmp](scenes/cube_output.bmp)
+![cube](scenes/cube_output.bmp)
 :--:
 *Cube*
 
-![teapot_output.bmp](scenes/teapot_output.bmp)
+![teapot](scenes/teapot_output.bmp)
 :--:
 *Teapot*
 
-![icosahedron_output.bmp](scenes/icosahedron_output.bmp)
+![icosahedron](scenes/icosahedron_output.bmp)
 :--:
 *Icosahedron*
