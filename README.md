@@ -6,4 +6,10 @@ Ce travail:
 * Ombrage
 * Réflexion miroir
 
-![Final Scene](scenes/basic_output.bmp)
+![](scenes/basic_output.bmp)
+
+![](scenes/triangle_output.bmp)
+
+![](scenes/cube_output.bmp)
+
+![](scenes/teapot_output.bmp)
