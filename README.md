@@ -7,12 +7,18 @@ Ce travail:
 * Ombrage
 * Réflexion miroir
 
+## Images générées
 ![](scenes/basic_output.bmp)
+*Scène Finale*
 
 ![](scenes/triangle_output.bmp)
+*Triangle*
 
 ![](scenes/cube_output.bmp)
+*Cube*
 
 ![](scenes/teapot_output.bmp)
+*Teapot*
 
 ![](scenes/icosahedron_output.bmp)
+*Icosahedron*
