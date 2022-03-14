@@ -8,20 +8,22 @@ Ce travail:
 * Réflexion miroir
 
 ## Images générées
-![](scenes/basic_output.bmp)
+![basic_output.bmp](scenes/basic_output.bmp)
 :--:
 *Scène Finale*
 
-![](scenes/triangle_output.bmp)
+![triangle_output.bmp](scenes/triangle_output.bmp)
 :--:
 *Triangle*
 
-![](scenes/cube_output.bmp)
+![cube_output.bmp](scenes/cube_output.bmp)
 :--:
 *Cube*
 
-![](scenes/teapot_output.bmp)
+![teapot_output.bmp](scenes/teapot_output.bmp)
+:--:
 *Teapot*
 
-![](scenes/icosahedron_output.bmp)
+![icosahedron_output.bmp](scenes/icosahedron_output.bmp)
+:--:
 *Icosahedron*
