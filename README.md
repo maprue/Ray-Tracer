@@ -5,7 +5,7 @@ Ce travail:
 * Implémente les tests d'intersection pour un plane, une sphere et les meshs (triangles).
 * Implémente le calcul de l'illumintion locale.
 * Implémente le calcul des rayons d'ombre.
-* Implémente les rayons de réflexion réflexion.
+* Implémente les rayons de réflexion miroir.
 
 ## Images générées
 ![basic_output.bmp](scenes/basic_output.bmp)
