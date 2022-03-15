@@ -1,16 +1,16 @@
-# Travail pratique - ray tracing
-Travail pratique complété dans le cadre du cours d'infographie.
+# Practical work - ray tracing
+Practical work completed as part of the computer graphics course.
 
-Ce travail:
-* Implémente les tests d'intersection pour un plane, une sphere et les meshs (triangles).
-* Implémente le calcul de l'illumintion locale.
-* Implémente le calcul des rayons d'ombre.
-* Implémente les rayons de réflexion miroir.
+This project :
+* Implements intersection tests for a plane, a sphere and meshes (triangles).
+* Implements local illumination calculation.
+* Implements calculation of shadow rays.
+* Implements mirror reflection rays.
 
-## Images générées
+## Generated images
 ![basic](scenes/basic_output.bmp)
 :--:
-*Scène Finale*
+*Final Scene*
 
 ![triangle](scenes/triangle_output.bmp)
 :--:
