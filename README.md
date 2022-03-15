@@ -1,5 +1,5 @@
 # Practical work - ray tracing
-Practical work completed as part of the computer graphics course.
+Practical work completed as part of computer graphics course.
 
 This project :
 * Implements intersection tests for a plane, a sphere and meshes (triangles).
