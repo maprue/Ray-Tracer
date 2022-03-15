@@ -1,4 +1,4 @@
-# Practical work - Ray Tracing
+# Practical Work - Ray Tracing
 Practical work completed as part of computer graphics course.
 
 This project :
